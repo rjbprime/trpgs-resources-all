@@ -1,0 +1,253 @@
+@font-face {
+    font-family: "Bookinsanity";
+    src: 
+        local("Bookinsanity Remake"),
+        local("Bookinsanity"),
+        url('./fonts/bookinsanity.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/bookinsanity.otf") format("opentype");
+}
+@font-face {
+    font-family: "Bookinsanity";
+    src: 
+        local("Bookinsanity Remake"),
+        local("Bookinsanity"),
+        url('./fonts/bookinsanity-bold-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/bookinsanity-bold-it.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Bookinsanity";
+    src: 
+        local("Bookinsanity Remake"),
+        local("Bookinsanity"),
+        url('./fonts/bookinsanity-bold.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/bookinsanity-bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Bookinsanity";
+    src: 
+        local("Bookinsanity Remake"),
+        local("Bookinsanity"),
+        url('./fonts/bookinsanity-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/bookinsanity-it.otf") format("opentype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Zatanna Misdirection";
+    src: 
+        local("Zatanna Misdirection Remake"),    
+        local("Zatanna Misdirection"),
+        url('./fonts/zatanna-misdirection.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/zatanna-misdirection.otf") format("opentype");
+}
+@font-face {
+    font-family: "Zatanna Misdirection";
+    src: 
+        local("Zatanna Misdirection Remake"),    
+        local("Zatanna Misdirection"),
+        url('./fonts/zatanna-misdirection-bold-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/zatanna-misdirection-bold-it.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Zatanna Misdirection";
+    src: 
+        local("Zatanna Misdirection Remake"),    
+        local("Zatanna Misdirection"),
+        url('./fonts/zatanna-misdirection-bold.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/zatanna-misdirection-bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Zatanna Misdirection";
+    src: 
+        local("Zatanna Misdirection Remake"),    
+        local("Zatanna Misdirection"),
+        url('./fonts/zatanna-misdirection-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/zatanna-misdirection-it.otf") format("opentype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Nodesto Caps Condensed";
+    src: 
+        local("Nodesto Caps Condensed"),
+        url('./fonts/Nodesto Caps Condensed.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/nodesto-caps-condensed.otf") format("opentype");
+}
+@font-face {
+    font-family: "Nodesto Caps Condensed";
+    src: 
+        local("Nodesto Caps Condensed"),
+        url('./fonts/nodesto-caps-condensed-bold-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/nodesto-caps-condensed-bold-it.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Nodesto Caps Condensed";
+    src: 
+        local("Nodesto Caps Condensed"),
+        url('./fonts/nodesto-caps-condensed-bold.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/nodesto-caps-condensed-bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Nodesto Caps Condensed";
+    src: 
+        local("Nodesto Caps Condensed"),
+        url('./fonts/nodesto-caps-condensed-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/nodesto-caps-condensed-it.otf") format("opentype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Mr Eaves Small Caps";
+    src: 
+        local("Mr Eaves Small Caps"),
+        url('./fonts/mr-eaves-small-caps.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/mr-eaves-small-caps.otf") format("opentype");
+}
+@font-face {
+    font-family: "Scaly Sans";
+    src: 
+        local("Scaly Sans"),
+        url('./fonts/scaly-sans.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans.otf") format("opentype");
+}
+@font-face {
+    font-family: "Scaly Sans";
+    src: 
+        local("Scaly Sans"),
+        url('./fonts/scaly-sans-bold-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans-bold-it.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Scaly Sans";
+    src: 
+        local("Scaly Sans"),
+        url('./fonts/scaly-sans-bold.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans-bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Scaly Sans";
+    src: 
+        local("Scaly Sans"),
+        url('./fonts/scaly-sans-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans-it.otf") format("opentype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Scaly Sans Caps";
+    src: 
+        local("Scaly Sans Caps"),
+        url('./fonts/scaly-sans-caps.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans-caps.otf") format("opentype");
+}
+@font-face {
+    font-family: "Scaly Sans Caps";
+    src: 
+        local("Scaly Sans Caps"),
+        url('./fonts/scaly-sans-caps-bold-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans-caps-bold-it.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Scaly Sans Caps";
+    src: 
+        local("Scaly Sans Caps"),
+        url('./fonts/scaly-sans-caps-bold.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans-caps-bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Scaly Sans Caps";
+    src: 
+        local("Scaly Sans Caps"),
+        url('./fonts/scaly-sans-caps-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/scaly-sans-caps-it.otf") format("opentype");
+    font-style: italic;
+}
+@font-face {
+    font-family: "Solbera Imitation";
+    src: 
+        local("Solbera Imitation"),
+        url('./fonts/solbera-imitation.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/solbera-imitation.otf") format("opentype");
+}
+@font-face {
+    font-family: "Dungeon Drop Case";
+    src: 
+        local("Dungeon Drop Case"),
+        url('./fonts/dungeon-drop-case.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/dungeon-drop-case.otf") format("opentype");
+}
+@font-face {
+    font-family: "Belleza";
+    src: 
+        local("Belleza"),
+        url('./fonts/belleza.ttf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/belleza.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Belleza";
+    src: 
+        local("Belleza Regular"),
+        url('./fonts/belleza-regular.ttf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/belleza-regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Pterra-Dactyl";
+    src: 
+        local("Pterra-Dactyl"),
+        url('./fonts/pterra-dactyl.ttf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/pterra-dactyl.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Ravenna";
+    src: 
+        local("Ravenna"),
+        url('./fonts/ravenna.ttf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/ravenna.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Utopia";
+    src: 
+        local("Utopia"),
+        local("Utopia"),
+        url('./fonts/utopia.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia.otf") format("opentype");
+}
+@font-face {
+    font-family: "Utopia";
+    src: 
+        local("Utopia"),
+        local("Utopia"),
+        url('./fonts/utopia-bold-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-bold-it.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Utopia";
+    src: 
+        local("Utopia"),
+        local("Utopia"),
+        url('./fonts/utopia-bold.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-bold.otf") format("opentype");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Utopia";
+    src: 
+        local("Utopia"),
+        local("Utopia"),
+        url('./fonts/utopia-it.otf'),
+        url("https://raw.githubusercontent.com/rjbprime/trpg-2022-20xx/master/fonts/utopia-it.otf") format("opentype");
+    font-style: italic;
+}
